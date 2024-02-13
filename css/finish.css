@@ -1,0 +1,44 @@
+.pers__main {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: violet;
+  color: white;
+  text-align: center;
+}
+.pers__main .image__div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pers__main .image__div img {
+  width: 300px;
+  border-radius: 15px;
+}
+
+.prise {
+  margin-top: 250px;
+}
+
+.body {
+  margin: 0;
+  padding: 30px;
+  overflow-y: scroll;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: auto;
+  height: auto;
+  padding: 20px;
+}
+
+.reset__h1 {
+  color: violet;
+}/*# sourceMappingURL=finish.css.map */

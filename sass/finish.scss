@@ -1,0 +1,22 @@
+@import "./example.scss";
+
+.body{
+    margin: 0;
+    padding: 30px;
+    overflow-y: scroll;
+
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: auto;
+    height: auto;
+    padding: 20px;
+}
+.reset__h1{
+    color:violet;
+}
+

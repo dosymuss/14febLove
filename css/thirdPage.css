@@ -1,0 +1,34 @@
+.image__div, .error, .btn__div, .main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+  color: violet;
+}
+
+.btn__div button {
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  background-color: violet;
+  color: white;
+}
+
+.error {
+  width: 100%;
+  height: 100vh;
+  transition: 1s;
+  background-color: violet;
+  opacity: 0;
+  display: none;
+}
+.error img {
+  width: 200px;
+  border-radius: 50%;
+}/*# sourceMappingURL=thirdPage.css.map */
